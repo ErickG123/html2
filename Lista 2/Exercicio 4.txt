@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <form action="/ExercicioTres/Resultado" method="post">
+            <label for="numInicial">Digite o número inicial => </label>
+            <input type="text" name="numInicial" />
+            <br /><br />
+            <label for="numFinal">Digite o número final => </label>
+            <input type="text" name="numFinal" />
+            <br /><br />
+            <input type="submit" name="Botao" value="Enviar">
+            <br /><br />
+        </form>
+    </div>
+</body>
+</html>
+
+
+
+  	    int inicial = int.Parse(Request["numInicial"]);
+            int final = int.Parse(Request["numFinal"]);
+            int numImp = 0;
+
+            for(int i = inicial; i <= final; i++)
+            {
+                if(i % 3 == 0)
+                {
+                    numImp++;
+                }
+            }
+
+            ViewBag.qtdeImp = numImp;
+            ViewBag.numInicial = inicial;
+            ViewBag.numFinal = final;
+   
+            return View();

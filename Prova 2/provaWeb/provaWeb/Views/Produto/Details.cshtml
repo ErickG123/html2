@@ -1,0 +1,66 @@
+﻿@model provaWeb.Models.PRODUTO
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>PRODUTO</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.NOMEPRODUTO)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.NOMEPRODUTO)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.QTDEESTOQUE)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.QTDEESTOQUE)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.PRECOVENDA)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.PRECOVENDA)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.DATAVALIDADE)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DATAVALIDADE)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CATEGORIA1.CATEGORIA1)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CATEGORIA1.CATEGORIA1)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.IDPRODUTO }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

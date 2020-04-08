@@ -1,0 +1,69 @@
+﻿@model IEnumerable<provaWeb.Models.PRODUTO>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <a href="/CATEGORIA/Index">Categoria</a>
+    <a href="/Index/Index">Home</a>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NOMEPRODUTO)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QTDEESTOQUE)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PRECOVENDA)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DATAVALIDADE)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CATEGORIA1.CATEGORIA1)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NOMEPRODUTO)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.QTDEESTOQUE)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PRECOVENDA)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DATAVALIDADE)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CATEGORIA1.CATEGORIA1)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.IDPRODUTO }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.IDPRODUTO }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.IDPRODUTO })
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>

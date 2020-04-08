@@ -1,0 +1,45 @@
+﻿@model IEnumerable<provaWeb.Models.CATEGORIA>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <a href="/Produto/Index">Produto</a>
+    <a href="/Index/Index">Home</a>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CATEGORIA1)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CATEGORIA1)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.IDCATEGORIA }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.IDCATEGORIA }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.IDCATEGORIA })
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>

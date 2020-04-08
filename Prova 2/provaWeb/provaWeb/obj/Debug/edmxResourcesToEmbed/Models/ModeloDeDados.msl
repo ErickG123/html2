@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SUPERMERCADODBModelStoreContainer" CdmEntityContainer="SUPERMERCADODBEntities">
+    <EntitySetMapping Name="CATEGORIA">
+      <EntityTypeMapping TypeName="SUPERMERCADODBModel.CATEGORIA">
+        <MappingFragment StoreEntitySet="CATEGORIA">
+          <ScalarProperty Name="IDCATEGORIA" ColumnName="IDCATEGORIA" />
+          <ScalarProperty Name="CATEGORIA1" ColumnName="CATEGORIA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRODUTO">
+      <EntityTypeMapping TypeName="SUPERMERCADODBModel.PRODUTO">
+        <MappingFragment StoreEntitySet="PRODUTO">
+          <ScalarProperty Name="IDPRODUTO" ColumnName="IDPRODUTO" />
+          <ScalarProperty Name="NOMEPRODUTO" ColumnName="NOMEPRODUTO" />
+          <ScalarProperty Name="QTDEESTOQUE" ColumnName="QTDEESTOQUE" />
+          <ScalarProperty Name="PRECOVENDA" ColumnName="PRECOVENDA" />
+          <ScalarProperty Name="DATAVALIDADE" ColumnName="DATAVALIDADE" />
+          <ScalarProperty Name="CATEGORIA" ColumnName="CATEGORIA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

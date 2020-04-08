@@ -1,0 +1,150 @@
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\Calculadora.dll.config
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\Calculadora.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\Calculadora.pdb
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\csc.exe
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\csc.exe.config
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\csc.rsp
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\csi.exe
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\csi.exe.config
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\csi.rsp
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.AppContext.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Console.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.IO.Compression.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.IO.Pipes.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Claims.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.ValueTuple.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Xml.XPath.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\vbc.exe
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\vbc.exe.config
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\vbc.rsp
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\VBCSCompiler.exe
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Helpers.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Mvc.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Razor.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.Deployment.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.Razor.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Razor.xml
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.xml
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.Deployment.xml
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.Razor.xml
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Helpers.xml
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\System.Web.Mvc.xml
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\etec\Desktop\Aula 1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\Calculadora.dll.config
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\Calculadora.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\Calculadora.pdb
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\csc.exe
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\csc.exe.config
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\csc.rsp
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\csi.exe
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\csi.exe.config
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\csi.rsp
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.Managed.Core.targets
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.AppContext.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Collections.Immutable.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Console.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.IO.Compression.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.IO.FileSystem.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.IO.Pipes.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Reflection.Metadata.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.AccessControl.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Claims.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Security.Principal.Windows.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.ValueTuple.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Xml.XmlDocument.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Xml.XPath.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\vbc.exe
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\vbc.exe.config
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\vbc.rsp
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\VBCSCompiler.exe
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\roslyn\VBCSCompiler.exe.config
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\Microsoft.Web.Infrastructure.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Helpers.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Mvc.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Razor.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.Deployment.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.Razor.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Razor.xml
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.xml
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.Deployment.xml
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Webpages.Razor.xml
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Helpers.xml
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\System.Web.Mvc.xml
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Razor.resources.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Webpages.resources.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Helpers.resources.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\bin\pt-br\System.Web.Mvc.resources.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+E:\2º Módulo\Programação Web 2 - Val\Aula 1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

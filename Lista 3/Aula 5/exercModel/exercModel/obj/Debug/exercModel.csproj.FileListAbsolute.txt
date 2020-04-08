@@ -1,0 +1,150 @@
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\exercModel.dll.config
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\exercModel.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\exercModel.pdb
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\csc.exe
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\csc.exe.config
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\csc.rsp
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\csi.exe
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\csi.exe.config
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\csi.rsp
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.AppContext.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Console.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.IO.Compression.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Claims.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.ValueTuple.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\vbc.exe
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\vbc.exe.config
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\vbc.rsp
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\VBCSCompiler.exe
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Helpers.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Mvc.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Razor.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.Razor.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Razor.xml
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.xml
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.Razor.xml
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Helpers.xml
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\System.Web.Mvc.xml
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\obj\Debug\exercModel.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\obj\Debug\exercModel.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\obj\Debug\exercModel.csproj.CopyComplete
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\obj\Debug\exercModel.dll
+C:\Users\etec\Desktop\Aula 5\exercModel\exercModel\obj\Debug\exercModel.pdb
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\exercModel.dll.config
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\exercModel.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\exercModel.pdb
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\csc.exe
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\csc.exe.config
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\csc.rsp
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\csi.exe
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\csi.exe.config
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\csi.rsp
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.AppContext.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Console.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.IO.Compression.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Claims.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.ValueTuple.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\vbc.exe
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\vbc.exe.config
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\vbc.rsp
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\VBCSCompiler.exe
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Helpers.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Mvc.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Razor.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.Razor.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Razor.xml
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.xml
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Webpages.Razor.xml
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Helpers.xml
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\System.Web.Mvc.xml
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\obj\Debug\exercModel.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\obj\Debug\exercModel.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\obj\Debug\exercModel.csproj.CopyComplete
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\obj\Debug\exercModel.dll
+C:\Users\etec\Desktop\Lista Val 3\Aula 5\exercModel\exercModel\obj\Debug\exercModel.pdb

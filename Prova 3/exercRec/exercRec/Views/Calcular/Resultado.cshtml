@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Resultado</title>
+</head>
+<body>
+    <div> 
+        <p>Mês mais quente => @ViewBag.Nome || Temperatura => @ViewBag.Quente ºC</p>
+        <p>Mês mais frio => @ViewBag.NomeF || Temperatura => @ViewBag.Frio ºC</p>
+        <p>Média do ano => @ViewBag.Media ºC</p>
+        <p>Semestre mais quente => Temperatura:@ViewBag.Semestre ºC || Semestre: @ViewBag.PrimSem  @ViewBag.SegunSem ºC</p>
+        <p>Meses com temperatura inferior à média anual => @ViewBag.Inf</p>
+    </div>
+</body>
+</html>
